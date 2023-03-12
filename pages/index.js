@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Вы смотрите на код из файла <code>pages/index.js</code>
+          Вы смотрите на код из файла `pages/index.js`
         </p>
 
         <div className={styles.grid}>
