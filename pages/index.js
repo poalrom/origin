@@ -14,10 +14,6 @@ export default function Home() {
           Скажи "Hello" миру!
         </h1>
 
-        <p className={styles.description}>
-          Вы смотрите на код из файла `pages/index.js`
-        </p>
-
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
